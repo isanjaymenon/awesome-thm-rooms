@@ -18,6 +18,12 @@
 1. [Advent of Cyber 5 - 2023](https://tryhackme.com/r/room/adventofcyber2023) - Get started with Cyber Security in 24 Days - Learn the basics by doing a new, beginner friendly security challenge every day leading up to Christmas.
 1. [Advent of Cyber 6 - 2024](https://tryhackme.com/r/room/adventofcyber2024) - Dive into the wonderful world of cyber security by engaging in festive beginner-friendly exercises every day in the lead-up to Christmas!
 
+### Careers
+
+1. [Careers in Cyber](https://tryhackme.com/r/room/careersincyber) - Learn about the different careers in cyber security.
+1. [Security Principles](https://tryhackme.com/r/room/securityprinciples) - Learn about the security triad and common security models and principles.
+1. [Training Impact on Teams](https://tryhackme.com/r/room/training) - Discover the impact of training on teams and organisations.
+
 ## License
 
 - **Content License**: The contents of this repository, including documentation, markdown files, and other text-based materials, are licensed under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](/LICENSE). This means you can freely copy, modify, and distribute the content without any restrictions.
