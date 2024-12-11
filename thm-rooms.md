@@ -24,6 +24,13 @@
 1. [Security Principles](https://tryhackme.com/r/room/securityprinciples) - Learn about the security triad and common security models and principles.
 1. [Training Impact on Teams](https://tryhackme.com/r/room/training) - Discover the impact of training on teams and organisations.
 
+### Cryptography
+
+1. [Cryptography Basics](https://tryhackme.com/r/room/cryptographybasics) - Learn the basics of cryptography and symmetric encryption.
+1. [Hashing Basics](https://tryhackme.com/r/room/hashingbasics) - Learn about hashing functions and their uses in password verification and file integrity checking.
+1. [Introduction to Cryptography](https://tryhackme.com/r/room/cryptographyintro) - Learn about encryption algorithms such as AES, Diffie-Hellman key exchange, hashing, PKI, and TLS.
+1. [Public Key Cryptography Basics](https://tryhackme.com/r/room/publickeycrypto) - Discover how public key ciphers such as RSA work and explore their role in applications such as SSH.
+
 ## License
 
 - **Content License**: The contents of this repository, including documentation, markdown files, and other text-based materials, are licensed under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](/LICENSE). This means you can freely copy, modify, and distribute the content without any restrictions.
