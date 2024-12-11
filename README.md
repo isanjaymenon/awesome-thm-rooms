@@ -22,6 +22,14 @@
 | 1 | [Careers in Cyber](https://tryhackme.com/r/room/careersincyber) | Learn about the different careers in cyber security. |
 | 2 | [Security Principles](https://tryhackme.com/r/room/securityprinciples) | Learn about the security triad and common security models and principles. |
 | 3 | [Training Impact on Teams](https://tryhackme.com/r/room/training) | Discover the impact of training on teams and organisations. |
+
+### Cryptography
+| S.No | Room Name | Description |
+|-------|-----------|-------------|
+| 1 | [Cryptography Basics](https://tryhackme.com/r/room/cryptographybasics) | Learn the basics of cryptography and symmetric encryption. |
+| 2 | [Hashing Basics](https://tryhackme.com/r/room/hashingbasics) | Learn about hashing functions and their uses in password verification and file integrity checking. |
+| 3 | [Introduction to Cryptography](https://tryhackme.com/r/room/cryptographyintro) | Learn about encryption algorithms such as AES, Diffie-Hellman key exchange, hashing, PKI, and TLS. |
+| 4 | [Public Key Cryptography Basics](https://tryhackme.com/r/room/publickeycrypto) | Discover how public key ciphers such as RSA work and explore their role in applications such as SSH. |
 ## License
 - **Content License**: The contents of this repository, including documentation, markdown files, and other text-based materials, are licensed under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](/LICENSE). This means you can freely copy, modify, and distribute the content without any restrictions.
 - **Script License**: The scripts in this repository, located in the `/scripts` folder, are licensed under the [MIT License](/LICENSE.md). You are free to use, modify, and distribute the scripts, as long as you include the license notice in all copies of the code.

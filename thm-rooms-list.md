@@ -5,6 +5,10 @@
 5. https://tryhackme.com/r/room/adventofcyber3
 6. https://tryhackme.com/r/room/adventofcyber4
 7. https://tryhackme.com/r/room/careersincyber
-8. https://tryhackme.com/r/room/learncyberin25days
-9. https://tryhackme.com/r/room/securityprinciples
-10. https://tryhackme.com/r/room/training
+8. https://tryhackme.com/r/room/cryptographybasics
+9. https://tryhackme.com/r/room/cryptographyintro
+10. https://tryhackme.com/r/room/hashingbasics
+11. https://tryhackme.com/r/room/learncyberin25days
+12. https://tryhackme.com/r/room/publickeycrypto
+13. https://tryhackme.com/r/room/securityprinciples
+14. https://tryhackme.com/r/room/training
