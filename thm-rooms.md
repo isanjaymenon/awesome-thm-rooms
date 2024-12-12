@@ -31,6 +31,14 @@
 1. [Introduction to Cryptography](https://tryhackme.com/r/room/cryptographyintro) - Learn about encryption algorithms such as AES, Diffie-Hellman key exchange, hashing, PKI, and TLS.
 1. [Public Key Cryptography Basics](https://tryhackme.com/r/room/publickeycrypto) - Discover how public key ciphers such as RSA work and explore their role in applications such as SSH.
 
+### CTF
+
+1. [c4ptur3-th3-fl4g](https://tryhackme.com/r/room/c4ptur3th3fl4g) - A beginner level CTF challenge
+1. [Fowsniff CTF](https://tryhackme.com/r/room/ctf) - Hack this machine and get the flag. There are lots of hints along the way and is perfect for beginners!
+1. [GoldenEye](https://tryhackme.com/r/room/goldeneye) - Bond, James Bond. A guided CTF.
+1. [Mr Robot CTF](https://tryhackme.com/r/room/mrrobot) - Based on the Mr. Robot show, can you root this box?
+1. [Pickle Rick](https://tryhackme.com/r/room/picklerick) - A Rick and Morty CTF. Help turn Rick back into a human!
+
 ## License
 
 - **Content License**: The contents of this repository, including documentation, markdown files, and other text-based materials, are licensed under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](/LICENSE). This means you can freely copy, modify, and distribute the content without any restrictions.
