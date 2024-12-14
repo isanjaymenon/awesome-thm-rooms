@@ -39,6 +39,11 @@
 | 3 | [GoldenEye](https://tryhackme.com/r/room/goldeneye) | Bond, James Bond. A guided CTF. |
 | 4 | [Mr Robot CTF](https://tryhackme.com/r/room/mrrobot) | Based on the Mr. Robot show, can you root this box? |
 | 5 | [Pickle Rick](https://tryhackme.com/r/room/picklerick) | A Rick and Morty CTF. Help turn Rick back into a human! |
+
+### iOS
+| S.No | Room Name | Description |
+|-------|-----------|-------------|
+| 1 | [iOS Analysis](https://tryhackme.com/r/room/iosanalysis) | Discover the forensic artefacts present within iOS. |
 ## License
 - **Content License**: The contents of this repository, including documentation, markdown files, and other text-based materials, are licensed under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](/LICENSE). This means you can freely copy, modify, and distribute the content without any restrictions.
 - **Script License**: The scripts in this repository, located in the `/scripts` folder, are licensed under the [MIT License](/LICENSE.md). You are free to use, modify, and distribute the scripts, as long as you include the license notice in all copies of the code.
