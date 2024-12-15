@@ -43,6 +43,13 @@
 
 1. [iOS Analysis](https://tryhackme.com/r/room/iosanalysis) - Discover the forensic artefacts present within iOS.
 
+### Linux
+
+1. [Firewall Fundamentals](https://tryhackme.com/r/room/firewallfundamentals) - Learn about firewalls and get hands-on with Windows and Linux built-in firewalls.
+1. [Linux Privilege Escalation](https://tryhackme.com/r/room/linprivesc) - Learn the fundamentals of Linux privilege escalation. From enumeration to exploitation, get hands-on with over 8 different privilege escalation techniques.
+1. [Linux Shells](https://tryhackme.com/r/room/linuxshells) - Learn about scripting and the different types of Linux shells.
+1. [Linux System Hardening](https://tryhackme.com/r/room/linuxsystemhardening) - Learn how to improve the security posture of your Linux systems.
+
 ## License
 
 - **Content License**: The contents of this repository, including documentation, markdown files, and other text-based materials, are licensed under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](/LICENSE). This means you can freely copy, modify, and distribute the content without any restrictions.
