@@ -44,6 +44,14 @@
 | S.No | Room Name | Description |
 |-------|-----------|-------------|
 | 1 | [iOS Analysis](https://tryhackme.com/r/room/iosanalysis) | Discover the forensic artefacts present within iOS. |
+
+### Linux
+| S.No | Room Name | Description |
+|-------|-----------|-------------|
+| 1 | [Firewall Fundamentals](https://tryhackme.com/r/room/firewallfundamentals) | Learn about firewalls and get hands-on with Windows and Linux built-in firewalls. |
+| 2 | [Linux Privilege Escalation](https://tryhackme.com/r/room/linprivesc) | Learn the fundamentals of Linux privilege escalation. From enumeration to exploitation, get hands-on with over 8 different privilege escalation techniques. |
+| 3 | [Linux Shells](https://tryhackme.com/r/room/linuxshells) | Learn about scripting and the different types of Linux shells. |
+| 4 | [Linux System Hardening](https://tryhackme.com/r/room/linuxsystemhardening) | Learn how to improve the security posture of your Linux systems. |
 ## License
 - **Content License**: The contents of this repository, including documentation, markdown files, and other text-based materials, are licensed under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](/LICENSE). This means you can freely copy, modify, and distribute the content without any restrictions.
 - **Script License**: The scripts in this repository, located in the `/scripts` folder, are licensed under the [MIT License](/LICENSE.md). You are free to use, modify, and distribute the scripts, as long as you include the license notice in all copies of the code.
