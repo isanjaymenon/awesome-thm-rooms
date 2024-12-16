@@ -50,6 +50,26 @@
 1. [Linux Shells](https://tryhackme.com/r/room/linuxshells) - Learn about scripting and the different types of Linux shells.
 1. [Linux System Hardening](https://tryhackme.com/r/room/linuxsystemhardening) - Learn how to improve the security posture of your Linux systems.
 
+### Networking
+
+1. [Extending Your Network](https://tryhackme.com/r/room/extendingyournetwork) - Learn about some of the technologies used to extend networks out onto the Internet and the motivations for this.
+1. [Firewall Fundamentals](https://tryhackme.com/r/room/firewallfundamentals) - Learn about firewalls and get hands-on with Windows and Linux built-in firewalls.
+1. [Firewalls](https://tryhackme.com/r/room/redteamfirewalls) - Learn about and experiment with various firewall evasion techniques, such as port hopping and port tunneling.
+1. [HTTP in Detail](https://tryhackme.com/r/room/httpindetail) - Learn about how you request content from a web server using the HTTP protocol
+1. [Intro to LAN](https://tryhackme.com/r/room/introtolan) - Learn about some of the technologies and designs that power private networks
+1. [Net Sec Challenge](https://tryhackme.com/r/room/netsecchallenge) - Practice the skills you have learned in the Network Security module.
+1. [Network Security Protocols](https://tryhackme.com/r/room/networksecurityprotocols) - Learn about secure network protocols at the different layers of the OSI model.
+1. [Network Security Solutions](https://tryhackme.com/r/room/redteamnetsec) - Learn about and experiment with various IDS/IPS evasion techniques, such as protocol and payload manipulation.
+1. [Networking Concepts](https://tryhackme.com/r/room/networkingconcepts) - Learn about the ISO OSI model and the TCP/IP protocol suite.
+1. [Networking Core Protocols](https://tryhackme.com/r/room/networkingcoreprotocols) - Learn about the core TCP/IP protocols.
+1. [Networking Essentials](https://tryhackme.com/r/room/networkingessentials) - Explore networking protocols from automatic configuration to routing packets to the destination.
+1. [Networking Secure Protocols](https://tryhackme.com/r/room/networkingsecureprotocols) - Networking Secure Protocols
+1. [OSI Model](https://tryhackme.com/r/room/osimodelzi) - Learn about the fundamental networking framework that determines the various stages in which data is handled across a network
+1. [Packets & Frames](https://tryhackme.com/r/room/packetsframes) - Understand how data is divided into smaller pieces and transmitted across a network to another device
+1. [Protocols and Servers 1](https://tryhackme.com/r/room/protocolsandservers) - Learn about common protocols such as HTTP, FTP, POP3, SMTP and IMAP, along with related insecurities.
+1. [Protocols and Servers 2](https://tryhackme.com/r/room/protocolsandservers2) - Learn about attacks against passwords and cleartext traffic; explore options for mitigation via SSH and SSL/TLS.
+1. [What is Networking?](https://tryhackme.com/r/room/whatisnetworking) - Begin learning the fundamentals of computer networking in this bite-sized and interactive module.
+
 ## License
 
 - **Content License**: The contents of this repository, including documentation, markdown files, and other text-based materials, are licensed under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](/LICENSE). This means you can freely copy, modify, and distribute the content without any restrictions.
