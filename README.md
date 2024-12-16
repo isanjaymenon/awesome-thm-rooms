@@ -52,6 +52,27 @@
 | 2 | [Linux Privilege Escalation](https://tryhackme.com/r/room/linprivesc) | Learn the fundamentals of Linux privilege escalation. From enumeration to exploitation, get hands-on with over 8 different privilege escalation techniques. |
 | 3 | [Linux Shells](https://tryhackme.com/r/room/linuxshells) | Learn about scripting and the different types of Linux shells. |
 | 4 | [Linux System Hardening](https://tryhackme.com/r/room/linuxsystemhardening) | Learn how to improve the security posture of your Linux systems. |
+
+### Networking
+| S.No | Room Name | Description |
+|-------|-----------|-------------|
+| 1 | [Extending Your Network](https://tryhackme.com/r/room/extendingyournetwork) | Learn about some of the technologies used to extend networks out onto the Internet and the motivations for this. |
+| 2 | [Firewall Fundamentals](https://tryhackme.com/r/room/firewallfundamentals) | Learn about firewalls and get hands-on with Windows and Linux built-in firewalls. |
+| 3 | [Firewalls](https://tryhackme.com/r/room/redteamfirewalls) | Learn about and experiment with various firewall evasion techniques, such as port hopping and port tunneling. |
+| 4 | [HTTP in Detail](https://tryhackme.com/r/room/httpindetail) | Learn about how you request content from a web server using the HTTP protocol |
+| 5 | [Intro to LAN](https://tryhackme.com/r/room/introtolan) | Learn about some of the technologies and designs that power private networks |
+| 6 | [Net Sec Challenge](https://tryhackme.com/r/room/netsecchallenge) | Practice the skills you have learned in the Network Security module. |
+| 7 | [Network Security Protocols](https://tryhackme.com/r/room/networksecurityprotocols) | Learn about secure network protocols at the different layers of the OSI model. |
+| 8 | [Network Security Solutions](https://tryhackme.com/r/room/redteamnetsec) | Learn about and experiment with various IDS/IPS evasion techniques, such as protocol and payload manipulation. |
+| 9 | [Networking Concepts](https://tryhackme.com/r/room/networkingconcepts) | Learn about the ISO OSI model and the TCP/IP protocol suite. |
+| 10 | [Networking Core Protocols](https://tryhackme.com/r/room/networkingcoreprotocols) | Learn about the core TCP/IP protocols. |
+| 11 | [Networking Essentials](https://tryhackme.com/r/room/networkingessentials) | Explore networking protocols from automatic configuration to routing packets to the destination. |
+| 12 | [Networking Secure Protocols](https://tryhackme.com/r/room/networkingsecureprotocols) | Networking Secure Protocols |
+| 13 | [OSI Model](https://tryhackme.com/r/room/osimodelzi) | Learn about the fundamental networking framework that determines the various stages in which data is handled across a network |
+| 14 | [Packets & Frames](https://tryhackme.com/r/room/packetsframes) | Understand how data is divided into smaller pieces and transmitted across a network to another device |
+| 15 | [Protocols and Servers 1](https://tryhackme.com/r/room/protocolsandservers) | Learn about common protocols such as HTTP, FTP, POP3, SMTP and IMAP, along with related insecurities. |
+| 16 | [Protocols and Servers 2](https://tryhackme.com/r/room/protocolsandservers2) | Learn about attacks against passwords and cleartext traffic; explore options for mitigation via SSH and SSL/TLS. |
+| 17 | [What is Networking?](https://tryhackme.com/r/room/whatisnetworking) | Begin learning the fundamentals of computer networking in this bite-sized and interactive module. |
 ## License
 - **Content License**: The contents of this repository, including documentation, markdown files, and other text-based materials, are licensed under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](/LICENSE). This means you can freely copy, modify, and distribute the content without any restrictions.
 - **Script License**: The scripts in this repository, located in the `/scripts` folder, are licensed under the [MIT License](/LICENSE.md). You are free to use, modify, and distribute the scripts, as long as you include the license notice in all copies of the code.
