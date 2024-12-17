@@ -73,6 +73,14 @@
 | 15 | [Protocols and Servers 1](https://tryhackme.com/r/room/protocolsandservers) | Learn about common protocols such as HTTP, FTP, POP3, SMTP and IMAP, along with related insecurities. |
 | 16 | [Protocols and Servers 2](https://tryhackme.com/r/room/protocolsandservers2) | Learn about attacks against passwords and cleartext traffic; explore options for mitigation via SSH and SSL/TLS. |
 | 17 | [What is Networking?](https://tryhackme.com/r/room/whatisnetworking) | Begin learning the fundamentals of computer networking in this bite-sized and interactive module. |
+
+### OWASP
+| S.No | Room Name | Description |
+|-------|-----------|-------------|
+| 1 | [OWASP API Security Top 10 - 1](https://tryhackme.com/r/room/owaspapisecuritytop105w) | Learn the basic concepts for secure API development (Part 1). |
+| 2 | [OWASP API Security Top 10 - 2](https://tryhackme.com/r/room/owaspapisecuritytop10d0) | Learn the basic concepts for secure API development (Part 2). |
+| 3 | [OWASP Top 10 - 2021](https://tryhackme.com/r/room/owasptop102021) | Learn about and exploit each of the OWASP Top 10 vulnerabilities; the 10 most critical web security risks. |
+| 4 | [OWASP Top 10](https://tryhackme.com/r/room/owasptop10) | Learn about and exploit each of the OWASP Top 10 vulnerabilities; the 10 most critical web security risks. |
 ## License
 - **Content License**: The contents of this repository, including documentation, markdown files, and other text-based materials, are licensed under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](/LICENSE). This means you can freely copy, modify, and distribute the content without any restrictions.
 - **Script License**: The scripts in this repository, located in the `/scripts` folder, are licensed under the [MIT License](/LICENSE.md). You are free to use, modify, and distribute the scripts, as long as you include the license notice in all copies of the code.
