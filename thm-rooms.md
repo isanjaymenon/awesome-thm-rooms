@@ -77,6 +77,12 @@
 1. [OWASP Top 10 - 2021](https://tryhackme.com/r/room/owasptop102021) - Learn about and exploit each of the OWASP Top 10 vulnerabilities; the 10 most critical web security risks.
 1. [OWASP Top 10](https://tryhackme.com/r/room/owasptop10) - Learn about and exploit each of the OWASP Top 10 vulnerabilities; the 10 most critical web security risks.
 
+### Programming
+
+1. [JavaScript Essentials](https://tryhackme.com/r/room/javascriptessentials) - Learn how to use JavaScript to add interactivity to a website and understand associated vulnerabilities.
+1. [Python Basics](https://tryhackme.com/r/room/pythonbasics) - Using a web-based code editor, learn the basics of Python and put your knowledge into practice by eventually coding a short Bitcoin investment project.
+1. [SQL Fundamentals](https://tryhackme.com/r/room/sqlfundamentals) - Learn how to perform basic SQL queries to retrieve and manage data in a database.
+
 ## License
 
 - **Content License**: The contents of this repository, including documentation, markdown files, and other text-based materials, are licensed under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](/LICENSE). This means you can freely copy, modify, and distribute the content without any restrictions.
