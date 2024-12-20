@@ -83,6 +83,17 @@
 1. [Python Basics](https://tryhackme.com/r/room/pythonbasics) - Using a web-based code editor, learn the basics of Python and put your knowledge into practice by eventually coding a short Bitcoin investment project.
 1. [SQL Fundamentals](https://tryhackme.com/r/room/sqlfundamentals) - Learn how to perform basic SQL queries to retrieve and manage data in a database.
 
+### Recon
+
+1. [Active Reconnaissance](https://tryhackme.com/r/room/activerecon) - Learn how to use simple tools such as traceroute, ping, telnet, and a web browser to gather information.
+1. [Enumeration](https://tryhackme.com/r/room/enumerationpe) - This room is an introduction to enumeration when approaching an unknown corporate environment.
+1. [Introductory Researching](https://tryhackme.com/r/room/introtoresearch) - A brief introduction to research skills for pentesting.
+1. [Passive Reconnaissance](https://tryhackme.com/r/room/passiverecon) - Learn about the essential tools for passive reconnaissance, such as whois, nslookup, and dig.
+1. [Red Team Recon](https://tryhackme.com/r/room/redteamrecon) - Learn how to use DNS, advanced searching, Recon-ng, and Maltego to collect information about your target.
+1. [Search Skills](https://tryhackme.com/r/room/searchskills) - Learn to efficiently search the Internet and use specialized search engines and technical docs.
+1. [Subdomain Enumeration](https://tryhackme.com/r/room/subdomainenumeration) - Learn the various ways of discovering subdomains to expand your attack surface of a target.
+1. [Web Enumeration](https://tryhackme.com/r/room/webenumerationv2) - Learn the methodology of enumerating websites by using tools such as Gobuster, Nikto and WPScan
+
 ## License
 
 - **Content License**: The contents of this repository, including documentation, markdown files, and other text-based materials, are licensed under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](/LICENSE). This means you can freely copy, modify, and distribute the content without any restrictions.
