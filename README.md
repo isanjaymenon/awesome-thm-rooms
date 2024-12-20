@@ -88,6 +88,18 @@
 | 1 | [JavaScript Essentials](https://tryhackme.com/r/room/javascriptessentials) | Learn how to use JavaScript to add interactivity to a website and understand associated vulnerabilities. |
 | 2 | [Python Basics](https://tryhackme.com/r/room/pythonbasics) | Using a web-based code editor, learn the basics of Python and put your knowledge into practice by eventually coding a short Bitcoin investment project. |
 | 3 | [SQL Fundamentals](https://tryhackme.com/r/room/sqlfundamentals) | Learn how to perform basic SQL queries to retrieve and manage data in a database. |
+
+### Recon
+| S.No | Room Name | Description |
+|-------|-----------|-------------|
+| 1 | [Active Reconnaissance](https://tryhackme.com/r/room/activerecon) | Learn how to use simple tools such as traceroute, ping, telnet, and a web browser to gather information. |
+| 2 | [Enumeration](https://tryhackme.com/r/room/enumerationpe) | This room is an introduction to enumeration when approaching an unknown corporate environment. |
+| 3 | [Introductory Researching](https://tryhackme.com/r/room/introtoresearch) | A brief introduction to research skills for pentesting. |
+| 4 | [Passive Reconnaissance](https://tryhackme.com/r/room/passiverecon) | Learn about the essential tools for passive reconnaissance, such as whois, nslookup, and dig. |
+| 5 | [Red Team Recon](https://tryhackme.com/r/room/redteamrecon) | Learn how to use DNS, advanced searching, Recon-ng, and Maltego to collect information about your target. |
+| 6 | [Search Skills](https://tryhackme.com/r/room/searchskills) | Learn to efficiently search the Internet and use specialized search engines and technical docs. |
+| 7 | [Subdomain Enumeration](https://tryhackme.com/r/room/subdomainenumeration) | Learn the various ways of discovering subdomains to expand your attack surface of a target. |
+| 8 | [Web Enumeration](https://tryhackme.com/r/room/webenumerationv2) | Learn the methodology of enumerating websites by using tools such as Gobuster, Nikto and WPScan |
 ## License
 - **Content License**: The contents of this repository, including documentation, markdown files, and other text-based materials, are licensed under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](/LICENSE). This means you can freely copy, modify, and distribute the content without any restrictions.
 - **Script License**: The scripts in this repository, located in the `/scripts` folder, are licensed under the [MIT License](/LICENSE.md). You are free to use, modify, and distribute the scripts, as long as you include the license notice in all copies of the code.
