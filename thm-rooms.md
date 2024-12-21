@@ -94,6 +94,11 @@
 1. [Subdomain Enumeration](https://tryhackme.com/r/room/subdomainenumeration) - Learn the various ways of discovering subdomains to expand your attack surface of a target.
 1. [Web Enumeration](https://tryhackme.com/r/room/webenumerationv2) - Learn the methodology of enumerating websites by using tools such as Gobuster, Nikto and WPScan
 
+### Red Team
+
+1. [Red Team OPSEC](https://tryhackme.com/r/room/opsec) - Learn how to apply Operations Security (OPSEC) process for Red Teams.
+1. [Red Team Recon](https://tryhackme.com/r/room/redteamrecon) - Learn how to use DNS, advanced searching, Recon-ng, and Maltego to collect information about your target.
+
 ## License
 
 - **Content License**: The contents of this repository, including documentation, markdown files, and other text-based materials, are licensed under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](/LICENSE). This means you can freely copy, modify, and distribute the content without any restrictions.
