@@ -100,6 +100,12 @@
 | 6 | [Search Skills](https://tryhackme.com/r/room/searchskills) | Learn to efficiently search the Internet and use specialized search engines and technical docs. |
 | 7 | [Subdomain Enumeration](https://tryhackme.com/r/room/subdomainenumeration) | Learn the various ways of discovering subdomains to expand your attack surface of a target. |
 | 8 | [Web Enumeration](https://tryhackme.com/r/room/webenumerationv2) | Learn the methodology of enumerating websites by using tools such as Gobuster, Nikto and WPScan |
+
+### Red Team
+| S.No | Room Name | Description |
+|-------|-----------|-------------|
+| 1 | [Red Team OPSEC](https://tryhackme.com/r/room/opsec) | Learn how to apply Operations Security (OPSEC) process for Red Teams. |
+| 2 | [Red Team Recon](https://tryhackme.com/r/room/redteamrecon) | Learn how to use DNS, advanced searching, Recon-ng, and Maltego to collect information about your target. |
 ## License
 - **Content License**: The contents of this repository, including documentation, markdown files, and other text-based materials, are licensed under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](/LICENSE). This means you can freely copy, modify, and distribute the content without any restrictions.
 - **Script License**: The scripts in this repository, located in the `/scripts` folder, are licensed under the [MIT License](/LICENSE.md). You are free to use, modify, and distribute the scripts, as long as you include the license notice in all copies of the code.
