@@ -106,6 +106,30 @@
 |-------|-----------|-------------|
 | 1 | [Red Team OPSEC](https://tryhackme.com/r/room/opsec) | Learn how to apply Operations Security (OPSEC) process for Red Teams. |
 | 2 | [Red Team Recon](https://tryhackme.com/r/room/redteamrecon) | Learn how to use DNS, advanced searching, Recon-ng, and Maltego to collect information about your target. |
+
+### Tools
+| S.No | Room Name | Description |
+|-------|-----------|-------------|
+| 1 | [CAPA: The Basics](https://tryhackme.com/r/room/capabasics) | Learn to use CAPA to identify malicious capabilities. |
+| 2 | [CyberChef: The Basics](https://tryhackme.com/r/room/cyberchefbasics) | This room is an introduction to CyberChef, the Swiss Army knife for cyber security professionals. |
+| 3 | [FlareVM: Arsenal of Tools](https://tryhackme.com/r/room/flarevmarsenaloftools) | Learn the arsenal of investigative tools in FlareVM. |
+| 4 | [Gobuster: The Basics](https://tryhackme.com/r/room/gobusterthebasics) | This room focuses on an introduction to Gobuster, an offensive security tool used for enumeration. |
+| 5 | [Hydra](https://tryhackme.com/r/room/hydra) | Learn about and use Hydra, a fast network logon cracker, to bruteforce and obtain a website's credentials. |
+| 6 | [Introduction to OWASP ZAP](https://tryhackme.com/r/room/learnowaspzap) | Learn how to use OWASP ZAP from the ground up. An alternative to BurpSuite. |
+| 7 | [John the Ripper: The Basics](https://tryhackme.com/r/room/johntheripperbasics) | Learn how to use John the Ripper, a powerful and adaptable hash-cracking tool. |
+| 8 | [Metasploit: Exploitation](https://tryhackme.com/r/room/metasploitexploitation) | Using Metasploit for scanning, vulnerability assessment and exploitation. |
+| 9 | [Nmap 01 - Live Host Discovery](https://tryhackme.com/r/room/nmap01) | Learn how to use Nmap to discover live hosts using ARP scan, ICMP scan, and TCP/UDP ping scan. |
+| 10 | [Nmap 02 - Basic Port Scans](https://tryhackme.com/r/room/nmap02) | Learn in-depth how nmap TCP connect scan, TCP SYN port scan, and UDP port scan work. |
+| 11 | [Nmap 03 - Advanced Port Scans](https://tryhackme.com/r/room/nmap03) | Learn advanced techniques such as null, FIN, Xmas, and idle (zombie) scans, spoofing, in addition to FW and IDS evasion. |
+| 12 | [Nmap 04 - Post Port Scans](https://tryhackme.com/r/room/nmap04) | Learn how to leverage Nmap for service and OS detection, use Nmap Scripting Engine (NSE), and save the results. |
+| 13 | [Nmap: The Basics](https://tryhackme.com/r/room/nmap) | Learn how to use Nmap to discover live hosts, find open ports, and detect service versions. |
+| 14 | [Nmap](https://tryhackme.com/r/room/furthernmap) | An in depth look at scanning with Nmap, a powerful network scanning tool. |
+| 15 | [REMnux: Getting Started](https://tryhackme.com/r/room/remnuxgettingstarted) | Learn how you can use the tools inside the REMnux VM. |
+| 16 | [SQLMap: The Basics](https://tryhackme.com/r/room/sqlmapthebasics) | Learn about SQL injection and exploit this vulnerability through the SQLMap tool. |
+| 17 | [Sysinternals](https://tryhackme.com/r/room/btsysinternalssg) | Learn to use the Sysinternals tools to analyze Windows systems or applications. |
+| 18 | [Tcpdump: The Basics](https://tryhackme.com/r/room/tcpdump) | Learn how to use Tcpdump to save, filter, and display packets. |
+| 19 | [ToolsRus](https://tryhackme.com/r/room/toolsrus) | Practise using tools such as dirbuster, hydra, nmap, nikto and metasploit |
+| 20 | [Wireshark 101](https://tryhackme.com/r/room/wireshark) | Learn the basics of Wireshark and how to analyze various protocols and PCAPs |
 ## License
 - **Content License**: The contents of this repository, including documentation, markdown files, and other text-based materials, are licensed under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](/LICENSE). This means you can freely copy, modify, and distribute the content without any restrictions.
 - **Script License**: The scripts in this repository, located in the `/scripts` folder, are licensed under the [MIT License](/LICENSE.md). You are free to use, modify, and distribute the scripts, as long as you include the license notice in all copies of the code.
