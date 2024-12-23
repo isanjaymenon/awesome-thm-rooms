@@ -122,6 +122,12 @@
 1. [ToolsRus](https://tryhackme.com/r/room/toolsrus) - Practise using tools such as dirbuster, hydra, nmap, nikto and metasploit
 1. [Wireshark 101](https://tryhackme.com/r/room/wireshark) - Learn the basics of Wireshark and how to analyze various protocols and PCAPs
 
+### TryHackMe
+
+1. [Kali Machine](https://tryhackme.com/r/room/kali) - Access your own Kali Machine
+1. [Starting Out In Cyber Sec](https://tryhackme.com/r/room/startingoutincybersec) - Learn about the different career paths in Cyber Security and how TryHackMe can help!
+1. [Tutorial](https://tryhackme.com/r/room/tutorial) - Learn how to use a TryHackMe room to start your upskilling in cyber security.
+
 ## License
 
 - **Content License**: The contents of this repository, including documentation, markdown files, and other text-based materials, are licensed under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](/LICENSE). This means you can freely copy, modify, and distribute the content without any restrictions.
