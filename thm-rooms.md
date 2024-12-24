@@ -128,6 +128,17 @@
 1. [Starting Out In Cyber Sec](https://tryhackme.com/r/room/startingoutincybersec) - Learn about the different career paths in Cyber Security and how TryHackMe can help!
 1. [Tutorial](https://tryhackme.com/r/room/tutorial) - Learn how to use a TryHackMe room to start your upskilling in cyber security.
 
+### Vulnerabilities
+
+1. [Authentication Bypass](https://tryhackme.com/r/room/authenticationbypass) - Learn how to defeat logins and other authentication mechanisms to allow you access to unpermitted areas.
+1. [Command Injection](https://tryhackme.com/r/room/oscommandinjection) - Learn about a vulnerability allowing you to execute commands through a vulnerable app, and its remediations.
+1. [File Inclusion](https://tryhackme.com/r/room/fileinc) - This room introduces file inclusion vulnerabilities, including Local File Inclusion (LFI), Remote File Inclusion (RFI), and directory traversal.
+1. [IDOR](https://tryhackme.com/r/room/idor) - Learn how to find and exploit IDOR vulnerabilities in a web application giving you access to data that you shouldn't have.
+1. [Intro to Cross-site Scripting](https://tryhackme.com/r/room/xss) - Learn how to detect and exploit XSS vulnerabilities, giving you control of other visitor's browsers.
+1. [Intro to SSRF](https://tryhackme.com/r/room/ssrfqi) - Learn how to exploit Server-Side Request Forgery (SSRF) vulnerabilities, allowing you to access internal server resources.
+1. [SQL Injection](https://tryhackme.com/r/room/sqlinjectionlm) - Learn how to detect and exploit SQL Injection vulnerabilities
+1. [Vulnerabilities 101](https://tryhackme.com/r/room/vulnerabilities101) - Understand the flaws of an application and apply your researching skills on some vulnerability databases.
+
 ## License
 
 - **Content License**: The contents of this repository, including documentation, markdown files, and other text-based materials, are licensed under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](/LICENSE). This means you can freely copy, modify, and distribute the content without any restrictions.
