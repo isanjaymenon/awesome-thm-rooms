@@ -139,6 +139,12 @@
 1. [SQL Injection](https://tryhackme.com/r/room/sqlinjectionlm) - Learn how to detect and exploit SQL Injection vulnerabilities
 1. [Vulnerabilities 101](https://tryhackme.com/r/room/vulnerabilities101) - Understand the flaws of an application and apply your researching skills on some vulnerability databases.
 
+### Web Application
+
+1. [How Websites Work](https://tryhackme.com/r/room/howwebsiteswork) - To exploit a website, you first need to know how they are created.
+1. [Web Application Basics](https://tryhackme.com/r/room/webapplicationbasics) - Learn the basics of web applications: HTTP, URLs, request methods, response codes, and headers.
+1. [Web Enumeration](https://tryhackme.com/r/room/webenumerationv2) - Learn the methodology of enumerating websites by using tools such as Gobuster, Nikto and WPScan
+
 ## License
 
 - **Content License**: The contents of this repository, including documentation, markdown files, and other text-based materials, are licensed under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](/LICENSE). This means you can freely copy, modify, and distribute the content without any restrictions.
