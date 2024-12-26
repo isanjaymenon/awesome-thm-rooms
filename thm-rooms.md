@@ -145,6 +145,14 @@
 1. [Web Application Basics](https://tryhackme.com/r/room/webapplicationbasics) - Learn the basics of web applications: HTTP, URLs, request methods, response codes, and headers.
 1. [Web Enumeration](https://tryhackme.com/r/room/webenumerationv2) - Learn the methodology of enumerating websites by using tools such as Gobuster, Nikto and WPScan
 
+### Windows
+
+1. [Active Directory Basics](https://tryhackme.com/r/room/winadbasics) - This room will introduce the basic concepts and functionality provided by Active Directory.
+1. [Firewall Fundamentals](https://tryhackme.com/r/room/firewallfundamentals) - Learn about firewalls and get hands-on with Windows and Linux built-in firewalls.
+1. [Microsoft Windows Hardening](https://tryhackme.com/r/room/microsoftwindowshardening) - To learn key attack vectors used by hackers and how to protect yourself using different hardening techniques.
+1. [Windows Command Line](https://tryhackme.com/r/room/windowscommandline) - Learn the essential Windows commands.
+1. [Windows PowerShell](https://tryhackme.com/r/room/windowspowershell) - Discover the "Power" in PowerShell and learn the basics.
+
 ## License
 
 - **Content License**: The contents of this repository, including documentation, markdown files, and other text-based materials, are licensed under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](/LICENSE). This means you can freely copy, modify, and distribute the content without any restrictions.
