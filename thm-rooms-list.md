@@ -91,3 +91,4 @@
 91. https://tryhackme.com/r/room/windowspowershell
 92. https://tryhackme.com/r/room/wireshark
 93. https://tryhackme.com/r/room/xss
+94. https://tryhackme.com/r/room/xssbasics
